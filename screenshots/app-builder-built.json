@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sync Engine",
+      "hasCanvas": false,
+      "bodyTextLen": 1473,
+      "bodyTextHash": "13e29930f9f1fb977164361053fceedec8ab4815dc10fb5740f568f04da3b470",
+      "bodyTextPrefix": "SYNC ENGINE Controlar. Conectar. Avanzar. Inicio Dispositivos Ac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sync Engine",
+      "hasCanvas": false,
+      "bodyTextLen": 701,
+      "bodyTextHash": "318c39e93144cf200e9afc32ac163186e9119e313d1d6bec0cc62c48d734c099",
+      "bodyTextPrefix": "7:30 LTE J Buenos días, Jose. Todos tus dispositivos conectados ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

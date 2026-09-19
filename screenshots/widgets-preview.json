@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/?vista=widgets",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sync Engine",
+      "hasCanvas": false,
+      "bodyTextLen": 726,
+      "bodyTextHash": "84cadb5cb92c9a461fb1645b20746b161c9e8580b966a732c253028ea1fa6685",
+      "bodyTextPrefix": "SYNC ENGINE Controlar. Conectar. Avanzar. Inicio Dispositivos Ac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/widgets-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sync Engine",
+      "hasCanvas": false,
+      "bodyTextLen": 575,
+      "bodyTextHash": "21a146667f3b12e637f922f7f7465b22f221d2b68959d4ac6cefa71ed2667343",
+      "bodyTextPrefix": "7:26 LTE J WIDGETS PARA TU MÓVIL Información clave de un vistazo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/widgets-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/widgets-preview.json"
+}
